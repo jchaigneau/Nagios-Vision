@@ -191,7 +191,3 @@ Le projet privilégie volontairement une architecture simple :
 L'idée est de pouvoir ajouter ou réorganiser des éléments du dashboard rapidement sans devoir modifier toute l'application.
 
 ---
-
-## 📜 Licence
-
-À adapter selon la licence choisie pour le projet.
